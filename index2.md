@@ -3,8 +3,8 @@
 **Bold words**
 
 ---
-#Big
-##Medium
+# Big Heading
+## Medium Heading
 
 [Link to other page](https://github.com/w2llS/cse15l-lab-reports/edit/main/index.md)
 
