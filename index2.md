@@ -8,6 +8,7 @@
 
 [Link to other page](https://github.com/w2llS/cse15l-lab-reports/edit/main/index.md)
 
+
 > Quote
 
 * Hi
@@ -17,3 +18,5 @@
 ```
 This is Code
 ```
+
+![Rock] https://i.ytimg.com/vi/2MCFwDhoqqc/hqdefault.jpg
