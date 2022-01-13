@@ -19,4 +19,4 @@
 This is Code
 ```
 
-![Rock] https://i.ytimg.com/vi/2MCFwDhoqqc/hqdefault.jpg
+![Rock] (https://i.ytimg.com/vi/2MCFwDhoqqc/hqdefault.jpg)
