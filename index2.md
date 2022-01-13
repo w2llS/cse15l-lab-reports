@@ -19,4 +19,4 @@
 This is Code
 ```
 
-! [Image] (https://i.ytimg.com/vi/2MCFwDhoqqc/hqdefault.jpg)
+![Image](https://i.ytimg.com/vi/2MCFwDhoqqc/hqdefault.jpg)
