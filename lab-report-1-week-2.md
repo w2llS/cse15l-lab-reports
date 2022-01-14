@@ -9,7 +9,7 @@ This should be the start screen
 
 ---
 
-![Image](/cse15l-lab-reports/blob/main/report1Images/1.PNG)
+![Image](/report1Images/1.PNG)
 
 ---
 # Remotely Connecting
