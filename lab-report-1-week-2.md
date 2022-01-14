@@ -9,7 +9,7 @@ This should be the start screen
 
 ---
 
-![Image](1.png)
+![Image](/cse15l-lab-reports/blob/report1Images/1.png)
 
 ---
 # Remotely Connecting
@@ -30,7 +30,7 @@ You should get this screen after logging in
 
 ---
 
-![Image](2.png)
+![Image](/cse15l-lab-reports/blob/report1Images/2.png)
 
 ---
 
@@ -51,7 +51,7 @@ For example in this picture I deleted a id_rsa.pub because I copied it to the wr
 
 ---
 
-![Image](3.png)
+![Image](/cse15l-lab-reports/blob/report1Images/3.png)
 
 ---
 
