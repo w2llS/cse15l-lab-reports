@@ -15,7 +15,7 @@ This should be the start screen
 # Remotely Connecting
 
 Get your course specific account through this website
-[Course account](/cse15l-lab-reports/blob/main/report1Images/2.PNG)
+[Course account](https://sdacs.ucsd.edu/~icc/index.php)
 
 It should be in the format cs15lwi22zz with the "zz" being different
 
@@ -30,7 +30,7 @@ You should get this screen after logging in
 
 ---
 
-![Image](/cse15l-lab-reports/blob/report1Images/2.png)
+![Image](/report1Images/2.PNG)
 
 ---
 
@@ -51,7 +51,7 @@ For example in this picture I deleted a id_rsa.pub because I copied it to the wr
 
 ---
 
-![Image](/cse15l-lab-reports/blob/report1Images/3.png)
+![Image](/report1Images/3.PNG)
 
 ---
 
@@ -66,7 +66,7 @@ Now when you run WhereAmI.java, it should say Linux
 
 ---
 
-![Image](4.png)
+![Image](/report1Images/4.PNG)
 
 ---
 
@@ -90,7 +90,7 @@ As you can see this picture I logged in with just my passphrase I set up when ma
 
 ---
 
-![Image](5.png)
+![Image](/report1Images/5.PNG)
 
 ---
 
@@ -107,4 +107,4 @@ You can run multiple commands on the same line by using semicolons
  You can use arrow keys to use the previous commands you used
 
 ---
- ![Image](6.png)
+ ![Image](/report1Images/6.PNG)
