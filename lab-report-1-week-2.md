@@ -9,13 +9,13 @@ This should be the start screen
 
 ---
 
-![Image](/cse15l-lab-reports/blob/report1Images/1.png)
+![Image](/cse15l-lab-reports/blob/main/report1Images/1.PNG)
 
 ---
 # Remotely Connecting
 
 Get your course specific account through this website
-[Course account](https://sdacs.ucsd.edu/~icc/index.php)
+[Course account](/cse15l-lab-reports/blob/main/report1Images/2.PNG)
 
 It should be in the format cs15lwi22zz with the "zz" being different
 
