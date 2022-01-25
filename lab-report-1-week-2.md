@@ -44,12 +44,25 @@ You should get this screen after logging in
 
 Now you can try some commands like
 
-* cd (change directory)
-* ls (list files in current directory)
-* mkdir (make a folder)
-* cat (concatenate)
-* cp (copy)
-* rm (remove)
+
+```
+cd (change directory)
+```
+```
+ls (list files in current directory)
+```
+```
+mkdir (make a folder)
+```
+```
+cat (concatenate)
+```
+```
+cp (copy)
+```
+```
+rm (remove)
+```
 
 For example in this picture I deleted a id_rsa.pub because I copied it to the wrong directory
 
