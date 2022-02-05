@@ -2,7 +2,13 @@
 
 The first error that I encountered was from [test-file2](https://github.com/w2llS/markdown-parse/blob/new/test-file2.md)
 
-This was the error
+### Symptom
+
+Command
+```
+PS C:\UnityProjects\Github\markdown-parse>  java -cp ".;lib/junit-4.13.2.jar;lib/hamcrest-core-1.3.jar" org.junit.runner.JUnitCore MarkdownParseTest
+```
+Output
 
 ```
 1) testFile1(MarkdownParseTest)
@@ -27,7 +33,14 @@ The bug is that there is an IOException when trying to get the links of the inpu
 
 The second error that I encountered was from [test-file3](https://github.com/w2llS/markdown-parse/blob/new/test-file3.md)
 
-This was the error
+### Symptom
+
+Command
+```
+PS C:\UnityProjects\Github\markdown-parse>  java -cp ".;lib/junit-4.13.2.jar;lib/hamcrest-core-1.3.jar" org.junit.runner.JUnitCore MarkdownParseTest
+```
+Output
+
 
 ```
 There was 1 failure:
@@ -50,7 +63,14 @@ The bug is that there is a StringIndexOutOfBoundsException when trying to get th
 
 The third error that I encountered was from [test-file5](https://github.com/w2llS/markdown-parse/blob/new/test-file5.md)
 
-This was the error
+### Symptom
+
+Command
+```
+PS C:\UnityProjects\Github\markdown-parse>  java -cp ".;lib/junit-4.13.2.jar;lib/hamcrest-core-1.3.jar" org.junit.runner.JUnitCore MarkdownParseTest
+```
+Output
+
 
 ```
 There was 1 failure:
