@@ -65,3 +65,7 @@ I think that I can make a change in my code that would make it work for snippet 
 I do not think 10 lines would be enough to fix my code to work for snippet 2, as I would need a check for nested links, nested brackets and nested parenthesis, which would need a lot more variables and lines of code to keep track of.
 
 I think 10 lines is not enough for snippet 3 as I would need to add some checks for when there are spaces before the link and remove those spaces/only return the link without spaces. Then I would need to add a check to ensure there is a close parenthesis after an open one before returning it, as right now my code returns the whole paragraph of text.
+
+
+
+<button name="button" onclick="http://www.google.com">Click me</button>
